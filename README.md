@@ -1,2 +1,2 @@
-# relogio-simultaneo-js
+# Relogio-Simultaneo-JS
  Relógio Simultaneo com JavaScript
